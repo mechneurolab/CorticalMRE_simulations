@@ -8,7 +8,7 @@ This research was supported by grants from the National Institutes of Health R01
 # References:
 [1] Hiscox LV, McGarry MDJ, Johnson CL. “Evaluation of Cerebral Cortex Viscoelastic Property Estimation with Nonlinear Inversion Magnetic Resonance Elastography,” Physics in Medicine & Biology, 2022; 67:095002. https://iopscience.iop.org/article/10.1088/1361-6560/ac5fde
 
-[2] McGarry MDJ, Van Houten EEw, Guertler CA, Okamoto RJ, Smith DR, Sowinski D, Johnson CL, Bayly PV, Weaver JB, Paulsen KD, “A Heterogeneous, Time Harmonic, Nearly Incompressible Transverse Isotropic Finite Element Brain Simulation Platform for MR Elastography,” Physics in Medicine & Biology, 2021; 66(5):055029. https://iopscience.iop.org/article/10.1088/1361-6560/ab9a84
+[2] McGarry MDJ, Van Houten EEW, Guertler CA, Okamoto RJ, Smith DR, Sowinski D, Johnson CL, Bayly PV, Weaver JB, Paulsen KD, “A Heterogeneous, Time Harmonic, Nearly Incompressible Transverse Isotropic Finite Element Brain Simulation Platform for MR Elastography,” Physics in Medicine & Biology, 2021; 66(5):055029. https://iopscience.iop.org/article/10.1088/1361-6560/ab9a84
 
 [3] Delgorio PL, Hiscox LV, Daugherty AM, Sanjana F, Pohlig RT, Ellison JM, Martens CR, Schwarb H, McGarry MDJ, Johnson CL, “Effect of Aging on the Viscoelastic Properties of Hippocampal Subfields Assessed with High-Resolution MR Elastography,” Cerebral Cortex, 2021; 31(6):2799–2811. https://academic.oup.com/cercor/article/31/6/2799/6102671
 
