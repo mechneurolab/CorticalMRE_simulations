@@ -3,7 +3,7 @@ Simulated displacement data and accompanying inversions to test the accuracy of 
 
 Realistic simulations were created from geometry of older adult brains with a range of stiffness (μ=2|G*|2/(G'+|G*|)) and damping ratio (ξ=G"/2G') assigned for several cortical regions defined by Freesurfer parcellations. Displacement data were created with finite-element simulation platform [2] using subject-specific boundary conditions from MRE data acquired at 1.25 mm isotropic resolution [3]. Inversions were performed with the nonlinear inversion algorithm [4] and soft prior regularization [5].
 
-This research was supported by grants from the National Institutes of Health R01-AG058853, R01- EB027577, and U01-NS112120.
+This research was supported by grants from the National Institutes of Health R01-AG058853, R01-EB027577, and U01-NS112120.
 
 # References:
 [1] Hiscox LV, McGarry MDJ, Johnson CL. “Evaluation of Cerebral Cortex Viscoelastic Property Estimation with Nonlinear Inversion Magnetic Resonance Elastography,” Physics in Medicine & Biology, 2022; 67:095002. https://iopscience.iop.org/article/10.1088/1361-6560/ac5fde
